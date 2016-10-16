@@ -9,4 +9,8 @@ thiis is the modification made online
 lo hecho in the second branch
 
 
-ERRORES A LO PENDEJO - NOW NOW
+
+git on with the assigment 
+finish joke
+
+Los errores los borre. a huevo
